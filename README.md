@@ -15,8 +15,7 @@ We used the Monte Carlo algorithm to simulate the evolution of spin orientations
 
 Problems encountered: 
 
-1) Could not find the desired result for the magnetic skyrmion. There are probably errors in our functions which prevent our mean() function from converging after n iterations of the monte carlo algorithm.
-2) Find an aesthetic 3d visualisation that allows us to see that all the arrows are the same size, given that the spin norm is 1 each time. 
+1) Find an aesthetic 3d visualisation that allows us to see that all the arrows are the same size, given that the spin norm is 1 each time. 
 
 ## How to use
 
